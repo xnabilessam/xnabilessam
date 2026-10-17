@@ -44,14 +44,14 @@ Beyond building client and production systems, I am passionate about crafting th
 ### 🏆 Certifications & Partner Status:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified" />
+  <img src="./assets/microsoft-badge.svg" alt="Microsoft Certified" width="197" height="28" />
   <img src="https://img.shields.io/badge/HubSpot%20Certified-E05A38?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot Certified" />
   <img src="https://img.shields.io/badge/Official%20Meta%20Tech%20Provider-0064E0?style=for-the-badge&logo=meta&logoColor=white" alt="Official Meta Tech Provider" />
 </p>
 
 ---
 
-### Connect with me:
+### 📬 Connect with me:
 
 <p align="left">
   <a href="https://x.com/xnabilessam" target="_blank">

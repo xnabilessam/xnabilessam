@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="197" height="28" viewBox="0 0 197 28" role="img" aria-labelledby="title">
+  <title id="title">Microsoft Certified</title>
+  <rect width="197" height="28" fill="#0078D4"/>
+  <g fill="#fff" transform="translate(10, 6.25)">
+    <rect x="0" y="0" width="7" height="7"/>
+    <rect x="8.5" y="0" width="7" height="7"/>
+    <rect x="0" y="8.5" width="7" height="7"/>
+    <rect x="8.5" y="8.5" width="7" height="7"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="1110" y="175" textLength="1520" font-weight="bold">MICROSOFT CERTIFIED</text>
+  </g>
+</svg>
