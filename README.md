@@ -54,11 +54,11 @@ Beyond building client and production systems, I am passionate about crafting th
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/xnabilessam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: xnabilessam" />
-  </a>
   <a href="https://x.com/xnabilessam" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @xnabilessam" />
+  </a>
+  <a href="https://www.linkedin.com/in/xnabilessam/" target="_blank">
+    <img src="./assets/linkedin-badge.svg" alt="LinkedIn" width="111" height="28" />
   </a>
   <a href="https://instagram.com/xnabilessam" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @xnabilessam" />
