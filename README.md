@@ -2,6 +2,9 @@
 
 <p align="left">
 
+  <!-- Computer Engineer -->
+  <img src="https://img.shields.io/badge/Computer%20Engineer-1F2937?style=for-the-badge&logo=gnubash&logoColor=white" alt="Computer Engineer" />
+
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
@@ -9,7 +12,10 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-2C5E8A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 
   <!-- LLM -->
-  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM" />
+
+  <!-- Prompt Engineering -->
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0284C7?style=for-the-badge&logo=langchain&logoColor=white" alt="Prompt Engineering" />
 
   <!-- Agent -->
   <img src="https://img.shields.io/badge/Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agent" />
@@ -22,7 +28,7 @@
 
 </p>
 
-I'm an AI engineer and developer focused on turning modern machine learning and language models into reliable, real-world systems. My core expertise centers on **Python, Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and full-stack web design**.
+I'm an **AI & Computer Engineer** focused on architecting and turning modern machine learning, Large Language Models, and intelligent systems into reliable, production-grade solutions. My core expertise centers on **Python, Large Language Models (LLMs), Prompt Engineering, AI Agents, Retrieval-Augmented Generation (RAG), Machine Learning, and modern web design**.
 
 At **[Swepety AI](https://swepety.com)**, I lead the design and implementation of AI consulting and automation solutions for businesses and agencies. My day-to-day work involves architecting autonomous agent workflows, intelligent customer follow-up systems, voice agents, and practical RAG engines that eliminate repetitive busywork and streamline operations.
 
