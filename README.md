@@ -23,6 +23,12 @@
   <!-- Web Design -->
   <img src="https://img.shields.io/badge/Web%20Design-BE185D?style=for-the-badge&logo=dribbble&logoColor=white" alt="Web Design" />
 
+  <!-- AI Consulting -->
+  <img src="https://img.shields.io/badge/AI%20Consulting-047857?style=for-the-badge&logo=deepmind&logoColor=white" alt="AI Consulting" />
+
+  <!-- AI Implementation -->
+  <img src="https://img.shields.io/badge/AI%20Implementation-0284C7?style=for-the-badge&logo=rocket&logoColor=white" alt="AI Implementation" />
+
 </p>
 
 I'm an **AI & Computer Engineer** focused on architecting and turning modern machine learning, Large Language Models, and intelligent systems into reliable, production-grade solutions. My core expertise centers on **Python, Large Language Models (LLMs), Prompt Engineering, AI Agents, Retrieval-Augmented Generation (RAG), Machine Learning, and modern web design**.
