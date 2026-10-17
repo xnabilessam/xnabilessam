@@ -47,7 +47,7 @@ Beyond building client and production systems, I am passionate about crafting th
   <a href="https://instagram.com/xnabilessam" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @xnabilessam" />
   </a>
-  <a href="weixin://dl/chat?xnabilessam">
+  <a href="./assets/wechat-qr.jpg" target="_blank">
     <img src="https://img.shields.io/badge/WeChat-xnabilessam-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: xnabilessam" />
   </a>
   <a href="https://calendar.app.google/AU6k46uGdccU72Hp6" target="_blank">
