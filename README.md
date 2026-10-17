@@ -47,4 +47,7 @@ Beyond building client and production systems, I am passionate about crafting th
   <a href="weixin://dl/chat?xnabilessam">
     <img src="https://img.shields.io/badge/WeChat-xnabilessam-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: xnabilessam" />
   </a>
+  <a href="https://calendar.app.google/AU6k46uGdccU72Hp6" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20a%20Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call" />
+  </a>
 </p>
