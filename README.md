@@ -1,9 +1,6 @@
-## 👋 Hi! I'm Nabil
+## 👋 Hello! I'm Nabil
 
 <p align="left">
-
-  <!-- Computer Engineer -->
-  <img src="https://img.shields.io/badge/Computer%20Engineer-1F2937?style=for-the-badge&logo=gnubash&logoColor=white" alt="Computer Engineer" />
 
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
