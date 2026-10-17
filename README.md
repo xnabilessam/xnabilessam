@@ -3,25 +3,25 @@
 <p align="left">
 
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
   <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-2C5E8A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-
-  <!-- LLM -->
-  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0E7490?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 
   <!-- Prompt Engineering -->
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0284C7?style=for-the-badge&logo=langchain&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4338CA?style=for-the-badge&logo=langchain&logoColor=white" alt="Prompt Engineering" />
+
+  <!-- LLM -->
+  <img src="https://img.shields.io/badge/LLM-6D28D9?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM" />
 
   <!-- AI Agents -->
-  <img src="https://img.shields.io/badge/AI%20Agents-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/AI%20Agents-86198F?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" />
 
   <!-- RAG -->
-  <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/RAG-C2410C?style=for-the-badge&logo=elastic&logoColor=white" alt="RAG" />
 
   <!-- Web Design -->
-  <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white" alt="Web Design" />
+  <img src="https://img.shields.io/badge/Web%20Design-BE185D?style=for-the-badge&logo=dribbble&logoColor=white" alt="Web Design" />
 
 </p>
 
