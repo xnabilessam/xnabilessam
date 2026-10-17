@@ -14,8 +14,8 @@
   <!-- Prompt Engineering -->
   <img src="https://img.shields.io/badge/Prompt%20Engineering-0284C7?style=for-the-badge&logo=langchain&logoColor=white" alt="Prompt Engineering" />
 
-  <!-- Agent -->
-  <img src="https://img.shields.io/badge/Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agent" />
+  <!-- AI Agents -->
+  <img src="https://img.shields.io/badge/AI%20Agents-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" />
 
   <!-- RAG -->
   <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white" alt="RAG" />
